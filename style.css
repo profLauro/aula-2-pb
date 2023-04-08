@@ -1,0 +1,44 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+p {
+  font-weight: bold;
+}
+
+#card{
+  background-color: #999085;
+}
+
+p{
+  font-style: italic;
+  font-weight: 300;
+  font-size: 32px;
+  text-decoration: overline;
+  letter-spacing: 4px;
+  color: white;
+  font-family: Arial;
+}
+
+.lista1{
+  font-size: 24px;
+  list-style: none;
+}
+
+ol{
+  font-size: 24px;
+  list-style: lower-latin;
+}
+
+a:link{
+  color: red;
+}
+
+a:visited{
+  color: green;
+}
+
+li:hover{
+  font-weight: bold;
+}
